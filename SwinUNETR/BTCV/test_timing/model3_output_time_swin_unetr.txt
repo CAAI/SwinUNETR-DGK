@@ -1,0 +1,423 @@
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         290.50654891]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         456.96150887]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         284.41764152]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         272.72672671]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         412.92557625]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         305.74184928]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         290.05965894]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         288.85898965]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         308.72201335]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         273.62919045]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         284.27746315]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         415.43406362]
+Modifying image pixdim from [0.9765625 0.9765625 2.        0.       ] to [  0.9765625    0.9765625    2.         285.89335773]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625   0.9765625   2.        282.7020991]
+Modifying image pixdim from [0.9765625 0.9765625 2.        0.       ] to [  0.9765625   0.9765625   2.        294.4539973]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         274.41639829]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         445.47816248]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         261.99529658]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         461.94236683]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         288.86578489]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         302.76989555]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         288.79470751]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         270.26245975]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625   0.9765625   2.        290.2657058]
+Modifying image pixdim from [0.9765625 0.9765625 2.        0.       ] to [  0.9765625    0.9765625    2.         289.53104641]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         264.43433192]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         284.91317256]
+torch.Size([1, 2, 512, 365, 175])
+Inference on case HNC02_000.nii.gz
+torch.Size([1, 2, 473, 388, 175])
+Inference on case HNC02_048.nii.gz
+torch.Size([1, 2, 505, 366, 175])
+Inference on case HNC02_024.nii.gz
+torch.Size([1, 2, 497, 371, 175])
+Inference on case HNC02_001.nii.gz
+torch.Size([1, 2, 474, 360, 175])
+Inference on case HNC02_030.nii.gz
+torch.Size([1, 2, 439, 395, 175])
+Inference on case HNC02_057.nii.gz
+torch.Size([1, 2, 444, 391, 175])
+Inference on case HNC02_012.nii.gz
+torch.Size([1, 2, 455, 361, 175])
+Inference on case HNC02_045.nii.gz
+torch.Size([1, 2, 442, 388, 175])
+Inference on case HNC02_054.nii.gz
+torch.Size([1, 2, 441, 444, 175])
+Inference on case HNC02_027.nii.gz
+torch.Size([1, 2, 440, 346, 175])
+Inference on case HNC02_060.nii.gz
+torch.Size([1, 2, 493, 391, 175])
+Inference on case HNC02_051.nii.gz
+torch.Size([1, 2, 482, 401, 175])
+Inference on case HNC02_009.nii.gz
+torch.Size([1, 2, 448, 400, 175])
+Inference on case HNC02_042.nii.gz
+torch.Size([1, 2, 457, 344, 175])
+Inference on case HNC02_018.nii.gz
+torch.Size([1, 2, 483, 400, 175])
+Inference on case HNC02_021.nii.gz
+torch.Size([1, 2, 503, 370, 175])
+Inference on case HNC02_039.nii.gz
+torch.Size([1, 2, 512, 512, 176])
+Inference on case HNC02_063.nii.gz
+torch.Size([1, 2, 405, 422, 175])
+Inference on case HNC02_066.nii.gz
+torch.Size([1, 2, 427, 387, 175])
+Inference on case HNC02_033.nii.gz
+torch.Size([1, 2, 477, 352, 175])
+Inference on case HNC02_006.nii.gz
+torch.Size([1, 2, 512, 387, 175])
+Inference on case HNC02_036.nii.gz
+torch.Size([1, 2, 512, 376, 175])
+Inference on case HNC02_069.nii.gz
+torch.Size([1, 2, 512, 347, 175])
+Inference on case HNC02_003.nii.gz
+torch.Size([1, 2, 799, 799, 175])
+Inference on case HNC02_015.nii.gz
+torch.Size([1, 2, 500, 419, 175])
+Inference on case HNC02_002.nii.gz
+torch.Size([1, 2, 503, 378, 175])
+Inference on case HNC02_049.nii.gz
+torch.Size([1, 2, 472, 360, 175])
+Inference on case HNC02_025.nii.gz
+torch.Size([1, 2, 498, 375, 175])
+Inference on case HNC02_055.nii.gz
+torch.Size([1, 2, 435, 310, 175])
+Inference on case HNC02_037.nii.gz
+torch.Size([1, 2, 402, 347, 175])
+Inference on case HNC02_040.nii.gz
+torch.Size([1, 2, 511, 363, 175])
+Inference on case HNC02_010.nii.gz
+torch.Size([1, 2, 512, 359, 170])
+Inference on case HNC02_046.nii.gz
+torch.Size([1, 2, 488, 360, 175])
+Inference on case HNC02_070.nii.gz
+torch.Size([1, 2, 482, 349, 175])
+Inference on case HNC02_052.nii.gz
+torch.Size([1, 2, 465, 352, 175])
+Inference on case HNC02_028.nii.gz
+torch.Size([1, 2, 503, 349, 175])
+Inference on case HNC02_058.nii.gz
+torch.Size([1, 2, 453, 387, 175])
+Inference on case HNC02_031.nii.gz
+torch.Size([1, 2, 494, 400, 175])
+Inference on case HNC02_013.nii.gz
+torch.Size([1, 2, 449, 371, 175])
+Inference on case HNC02_067.nii.gz
+torch.Size([1, 2, 475, 393, 175])
+Inference on case HNC02_019.nii.gz
+torch.Size([1, 2, 506, 338, 175])
+Inference on case HNC02_043.nii.gz
+torch.Size([1, 2, 444, 398, 175])
+Inference on case HNC02_061.nii.gz
+torch.Size([1, 2, 453, 384, 175])
+Inference on case HNC02_022.nii.gz
+torch.Size([1, 2, 478, 357, 175])
+Inference on case HNC02_034.nii.gz
+torch.Size([1, 2, 489, 370, 175])
+Inference on case HNC02_064.nii.gz
+torch.Size([1, 2, 492, 401, 175])
+Inference on case HNC02_007.nii.gz
+torch.Size([1, 2, 467, 386, 175])
+Inference on case HNC02_016.nii.gz
+torch.Size([1, 2, 488, 367, 175])
+Inference on case HNC02_072.nii.gz
+torch.Size([1, 2, 512, 365, 175])
+Inference on case HNC02_050.nii.gz
+torch.Size([1, 2, 429, 405, 175])
+Inference on case HNC02_056.nii.gz
+torch.Size([1, 2, 427, 371, 175])
+Inference on case HNC02_011.nii.gz
+torch.Size([1, 2, 512, 512, 176])
+Inference on case HNC02_004.nii.gz
+torch.Size([1, 2, 497, 358, 175])
+Inference on case HNC02_026.nii.gz
+torch.Size([1, 2, 466, 395, 175])
+Inference on case HNC02_038.nii.gz
+torch.Size([1, 2, 469, 409, 175])
+Inference on case HNC02_041.nii.gz
+torch.Size([1, 2, 471, 376, 175])
+Inference on case HNC02_044.nii.gz
+torch.Size([1, 2, 502, 389, 175])
+Inference on case HNC02_068.nii.gz
+torch.Size([1, 2, 436, 389, 175])
+Inference on case HNC02_014.nii.gz
+torch.Size([1, 2, 484, 375, 175])
+Inference on case HNC02_020.nii.gz
+torch.Size([1, 2, 431, 389, 175])
+Inference on case HNC02_029.nii.gz
+torch.Size([1, 2, 430, 342, 175])
+Inference on case HNC02_023.nii.gz
+torch.Size([1, 2, 507, 421, 175])
+Inference on case HNC02_053.nii.gz
+torch.Size([1, 2, 500, 410, 175])
+Inference on case HNC02_047.nii.gz
+torch.Size([1, 2, 479, 395, 175])
+Inference on case HNC02_059.nii.gz
+torch.Size([1, 2, 509, 318, 175])
+Inference on case HNC02_017.nii.gz
+torch.Size([1, 2, 461, 381, 175])
+Inference on case HNC02_062.nii.gz
+torch.Size([1, 2, 512, 406, 175])
+Inference on case HNC02_035.nii.gz
+torch.Size([1, 2, 460, 349, 175])
+Inference on case HNC02_065.nii.gz
+torch.Size([1, 2, 484, 425, 175])
+Inference on case HNC02_008.nii.gz
+torch.Size([1, 2, 510, 355, 175])
+Inference on case HNC02_071.nii.gz
+torch.Size([1, 2, 451, 400, 175])
+Inference on case HNC02_032.nii.gz
+torch.Size([1, 2, 445, 380, 175])
+Inference on case HNC02_078.nii.gz
+torch.Size([1, 2, 504, 429, 175])
+Inference on case HNC02_073.nii.gz
+torch.Size([1, 2, 439, 414, 175])
+Inference on case HNC02_084.nii.gz
+torch.Size([1, 2, 430, 390, 175])
+Inference on case HNC02_005.nii.gz
+torch.Size([1, 2, 502, 415, 175])
+Inference on case HNC02_081.nii.gz
+torch.Size([1, 2, 512, 512, 176])
+Inference on case HNC02_075.nii.gz
+torch.Size([1, 2, 446, 402, 175])
+Inference on case HNC02_096.nii.gz
+torch.Size([1, 2, 497, 409, 175])
+Inference on case HNC02_093.nii.gz
+torch.Size([1, 2, 507, 382, 175])
+Inference on case HNC02_099.nii.gz
+torch.Size([1, 2, 473, 366, 175])
+Inference on case HNC02_138.nii.gz
+torch.Size([1, 2, 499, 372, 175])
+Inference on case HNC02_120.nii.gz
+torch.Size([1, 2, 440, 413, 175])
+Inference on case HNC02_102.nii.gz
+torch.Size([1, 2, 473, 299, 175])
+Inference on case HNC02_105.nii.gz
+torch.Size([1, 2, 475, 346, 175])
+Inference on case HNC02_114.nii.gz
+torch.Size([1, 2, 476, 357, 175])
+Inference on case HNC02_108.nii.gz
+torch.Size([1, 2, 495, 372, 175])
+Inference on case HNC02_087.nii.gz
+torch.Size([1, 2, 455, 356, 175])
+Inference on case HNC02_090.nii.gz
+torch.Size([1, 2, 491, 406, 175])
+Inference on case HNC02_132.nii.gz
+torch.Size([1, 2, 424, 364, 175])
+Inference on case HNC02_135.nii.gz
+torch.Size([1, 2, 486, 420, 175])
+Inference on case HNC02_123.nii.gz
+torch.Size([1, 2, 510, 361, 175])
+Inference on case HNC02_117.nii.gz
+torch.Size([1, 2, 466, 353, 175])
+Inference on case HNC02_129.nii.gz
+torch.Size([1, 2, 466, 393, 175])
+Inference on case HNC02_111.nii.gz
+torch.Size([1, 2, 491, 396, 175])
+Inference on case HNC02_141.nii.gz
+torch.Size([1, 2, 512, 512, 176])
+Inference on case HNC02_126.nii.gz
+torch.Size([1, 2, 448, 389, 175])
+Inference on case HNC02_079.nii.gz
+torch.Size([1, 2, 475, 359, 175])
+Inference on case HNC02_082.nii.gz
+torch.Size([1, 2, 496, 298, 175])
+Inference on case HNC02_100.nii.gz
+torch.Size([1, 2, 508, 336, 162])
+Inference on case HNC02_091.nii.gz
+torch.Size([1, 2, 484, 385, 175])
+Inference on case HNC02_112.nii.gz
+torch.Size([1, 2, 486, 406, 175])
+Inference on case HNC02_088.nii.gz
+torch.Size([1, 2, 512, 512, 176])
+Inference on case HNC02_074.nii.gz
+torch.Size([1, 2, 445, 347, 175])
+Inference on case HNC02_106.nii.gz
+torch.Size([1, 2, 480, 365, 175])
+Inference on case HNC02_103.nii.gz
+torch.Size([1, 2, 477, 402, 175])
+Inference on case HNC02_094.nii.gz
+torch.Size([1, 2, 429, 352, 175])
+Inference on case HNC02_130.nii.gz
+torch.Size([1, 2, 503, 375, 175])
+Inference on case HNC02_139.nii.gz
+torch.Size([1, 2, 480, 373, 175])
+Inference on case HNC02_115.nii.gz
+torch.Size([1, 2, 468, 408, 175])
+Inference on case HNC02_136.nii.gz
+torch.Size([1, 2, 512, 512, 176])
+Inference on case HNC02_109.nii.gz
+torch.Size([1, 2, 471, 319, 175])
+Inference on case HNC02_121.nii.gz
+torch.Size([1, 2, 512, 512, 175])
+Inference on case HNC02_076.nii.gz
+torch.Size([1, 2, 483, 352, 175])
+Inference on case HNC02_118.nii.gz
+torch.Size([1, 2, 512, 512, 176])
+Inference on case HNC02_124.nii.gz
+torch.Size([1, 2, 512, 512, 175])
+Inference on case HNC02_133.nii.gz
+torch.Size([1, 2, 512, 512, 176])
+Inference on case HNC02_085.nii.gz
+torch.Size([1, 2, 497, 367, 175])
+Inference on case HNC02_080.nii.gz
+torch.Size([1, 2, 458, 301, 175])
+Inference on case HNC02_142.nii.gz
+torch.Size([1, 2, 460, 363, 175])
+Inference on case HNC02_097.nii.gz
+torch.Size([1, 2, 468, 426, 175])
+Inference on case HNC02_083.nii.gz
+torch.Size([1, 2, 508, 341, 175])
+Inference on case HNC02_089.nii.gz
+torch.Size([1, 2, 440, 379, 175])
+Inference on case HNC02_101.nii.gz
+torch.Size([1, 2, 477, 392, 175])
+Inference on case HNC02_113.nii.gz
+torch.Size([1, 2, 412, 383, 175])
+Inference on case HNC02_104.nii.gz
+torch.Size([1, 2, 485, 367, 175])
+Inference on case HNC02_116.nii.gz
+torch.Size([1, 2, 460, 346, 175])
+Inference on case HNC02_122.nii.gz
+torch.Size([1, 2, 473, 380, 175])
+Inference on case HNC02_110.nii.gz
+torch.Size([1, 2, 467, 375, 175])
+Inference on case HNC02_144.nii.gz
+torch.Size([1, 2, 512, 422, 175])
+Inference on case HNC02_107.nii.gz
+torch.Size([1, 2, 432, 369, 175])
+Inference on case HNC02_140.nii.gz
+torch.Size([1, 2, 422, 377, 175])
+Inference on case HNC02_137.nii.gz
+torch.Size([1, 2, 446, 281, 175])
+Inference on case HNC02_077.nii.gz
+torch.Size([1, 2, 428, 389, 175])
+Inference on case HNC02_127.nii.gz
+torch.Size([1, 2, 436, 361, 175])
+Inference on case HNC02_125.nii.gz
+torch.Size([1, 2, 512, 426, 175])
+Inference on case HNC02_095.nii.gz
+torch.Size([1, 2, 478, 381, 175])
+Inference on case HNC02_131.nii.gz
+torch.Size([1, 2, 462, 358, 175])
+Inference on case HNC02_119.nii.gz
+torch.Size([1, 2, 459, 407, 175])
+Inference on case HNC02_134.nii.gz
+torch.Size([1, 2, 461, 398, 175])
+Inference on case HNC02_147.nii.gz
+torch.Size([1, 2, 471, 383, 175])
+Inference on case HNC02_143.nii.gz
+torch.Size([1, 2, 512, 512, 176])
+Inference on case HNC02_092.nii.gz
+torch.Size([1, 2, 512, 384, 175])
+Inference on case HNC02_150.nii.gz
+torch.Size([1, 2, 512, 346, 174])
+Inference on case HNC02_098.nii.gz
+torch.Size([1, 2, 437, 397, 175])
+Inference on case HNC02_153.nii.gz
+torch.Size([1, 2, 512, 512, 176])
+Inference on case HNC02_086.nii.gz
+torch.Size([1, 2, 431, 375, 175])
+Inference on case HNC02_168.nii.gz
+torch.Size([1, 2, 484, 365, 175])
+Inference on case HNC02_159.nii.gz
+torch.Size([1, 2, 511, 410, 175])
+Inference on case HNC02_162.nii.gz
+torch.Size([1, 2, 511, 371, 175])
+Inference on case HNC02_174.nii.gz
+torch.Size([1, 2, 512, 382, 175])
+Inference on case HNC02_165.nii.gz
+torch.Size([1, 2, 456, 386, 175])
+Inference on case HNC02_171.nii.gz
+torch.Size([1, 2, 441, 388, 175])
+Inference on case HNC02_192.nii.gz
+torch.Size([1, 2, 476, 396, 175])
+Inference on case HNC02_156.nii.gz
+torch.Size([1, 2, 509, 376, 175])
+Inference on case HNC02_180.nii.gz
+torch.Size([1, 2, 466, 384, 175])
+Inference on case HNC02_195.nii.gz
+torch.Size([1, 2, 486, 375, 175])
+Inference on case HNC02_183.nii.gz
+torch.Size([1, 2, 430, 391, 175])
+Inference on case HNC02_145.nii.gz
+torch.Size([1, 2, 495, 400, 175])
+Inference on case HNC02_189.nii.gz
+torch.Size([1, 2, 437, 309, 175])
+Inference on case HNC02_177.nii.gz
+torch.Size([1, 2, 475, 402, 175])
+Inference on case HNC02_186.nii.gz
+torch.Size([1, 2, 512, 512, 176])
+Inference on case HNC02_128.nii.gz
+torch.Size([1, 2, 451, 488, 175])
+Inference on case HNC02_151.nii.gz
+torch.Size([1, 2, 470, 376, 175])
+Inference on case HNC02_154.nii.gz
+torch.Size([1, 2, 481, 369, 175])
+Inference on case HNC02_148.nii.gz
+torch.Size([1, 2, 512, 441, 175])
+Inference on case HNC02_169.nii.gz
+torch.Size([1, 2, 507, 400, 175])
+Inference on case HNC02_160.nii.gz
+torch.Size([1, 2, 512, 512, 176])
+Inference on case HNC02_175.nii.gz
+torch.Size([1, 2, 512, 512, 176])
+Inference on case HNC02_163.nii.gz
+torch.Size([1, 2, 458, 394, 175])
+Inference on case HNC02_181.nii.gz
+torch.Size([1, 2, 496, 404, 175])
+Inference on case HNC02_184.nii.gz
+torch.Size([1, 2, 475, 291, 175])
+Inference on case HNC02_190.nii.gz
+torch.Size([1, 2, 454, 383, 175])
+Inference on case HNC02_157.nii.gz
+torch.Size([1, 2, 512, 512, 176])
+Inference on case HNC02_166.nii.gz
+torch.Size([1, 2, 482, 380, 175])
+Inference on case HNC02_172.nii.gz
+torch.Size([1, 2, 486, 380, 175])
+Inference on case HNC02_178.nii.gz
+torch.Size([1, 2, 491, 361, 175])
+Inference on case HNC02_193.nii.gz
+torch.Size([1, 2, 443, 373, 175])
+Inference on case HNC02_155.nii.gz
+torch.Size([1, 2, 478, 380, 175])
+Inference on case HNC02_146.nii.gz
+torch.Size([1, 2, 512, 397, 175])
+Inference on case HNC02_152.nii.gz
+torch.Size([1, 2, 512, 512, 176])
+Inference on case HNC02_187.nii.gz
+torch.Size([1, 2, 504, 356, 175])
+Inference on case HNC02_149.nii.gz
+torch.Size([1, 2, 485, 403, 175])
+Inference on case HNC02_161.nii.gz
+torch.Size([1, 2, 433, 360, 175])
+Inference on case HNC02_170.nii.gz
+torch.Size([1, 2, 475, 386, 175])
+Inference on case HNC02_164.nii.gz
+torch.Size([1, 2, 486, 362, 175])
+Inference on case HNC02_182.nii.gz
+torch.Size([1, 2, 435, 379, 175])
+Inference on case HNC02_185.nii.gz
+torch.Size([1, 2, 512, 512, 176])
+Inference on case HNC02_176.nii.gz
+torch.Size([1, 2, 495, 391, 175])
+Inference on case HNC02_191.nii.gz
+torch.Size([1, 2, 405, 348, 175])
+Inference on case HNC02_158.nii.gz
+torch.Size([1, 2, 512, 342, 175])
+Inference on case HNC02_167.nii.gz
+torch.Size([1, 2, 442, 349, 175])
+Inference on case HNC02_179.nii.gz
+torch.Size([1, 2, 461, 376, 175])
+Inference on case HNC02_188.nii.gz
+torch.Size([1, 2, 485, 379, 175])
+Inference on case HNC02_173.nii.gz
+torch.Size([1, 2, 512, 512, 176])
+Inference on case HNC02_194.nii.gz
+
+real	62m24.876s
+user	46m57.548s
+sys	24m53.885s

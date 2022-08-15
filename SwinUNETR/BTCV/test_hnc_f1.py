@@ -98,11 +98,10 @@ def main():
     with torch.no_grad():
         dice_list_case = []
         for i, batch in enumerate(val_loader):
-            val_inputs = (batch["image"].cuda())
-            original_affine = batch['image_meta_dict']['affine'][0].numpy()
-            print(val_inputs.shape)
-            _, _, h, w, d = val_inputs.shape 
-            target_shape = (h, w, d)
+            val_inputs, val_labels = (batch["image"].cuda(), batch["label"].cuda())
+            original_affine = batch['label_meta_dict']['affine'][0].numpy()
+            _, _, h, w, d = val_labels.shape
+            target_shape = (h, w, d) 
             img_name = batch['image_meta_dict']['filename_or_obj'][0].split('/')[-1]
             print("Inference on case {}".format(img_name))
             val_outputs = sliding_window_inference(val_inputs,
