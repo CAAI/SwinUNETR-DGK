@@ -121,12 +121,13 @@ def get_loader(args):
 
     test_transform = transforms.Compose(
         [
-            transforms.LoadImaged(keys=["image"]), #, "label"
+            transforms.LoadImaged(keys=["image", "label"]),
             #transforms.AddChanneld(keys=["image", "label"]),
+            #transforms.Orientationd(keys=["image", "label"],axcodes="RAS"),
             #transforms.Spacingd(keys="image",pixdim=(args.space_x, args.space_y, args.space_z),mode="bilinear"),
             #transforms.ScaleIntensityRanged(keys=["image"],a_min=args.a_min,a_max=args.a_max,b_min=args.b_min,b_max=args.b_max,clip=True),
-            transforms.CropForegroundd(keys=["image"], source_key="image"),#, "label" TODO: Prøv hvor denne er med
-            transforms.ToTensord(keys=["image"]),#, "label"
+            #transforms.CropForegroundd(keys=["image", "label"], source_key="image"),
+            transforms.ToTensord(keys=["image", "label"]),
         ]
     )
 
