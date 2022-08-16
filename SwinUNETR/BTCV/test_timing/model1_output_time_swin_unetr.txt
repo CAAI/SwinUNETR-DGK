@@ -1,0 +1,399 @@
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         301.52625475]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         279.40380214]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         450.42215038]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         268.09189824]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         296.67247085]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         302.17950526]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         286.18511867]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         274.06597112]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         297.06202708]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         302.76989555]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         285.54816438]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         284.14452247]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         298.52029657]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         418.38446299]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         288.79470751]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         292.63242242]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         271.90672279]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         303.58321083]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         295.38850259]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         283.49043793]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         322.74447535]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         298.57124667]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         270.26245975]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         284.75994598]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         284.32005699]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         291.06068197]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         313.33314608]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         445.47816248]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         533.14105365]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         297.04258474]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         279.89942439]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         307.82831122]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         282.56538977]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         297.45508504]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         306.21462213]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         302.02686443]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         261.99529658]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         291.51749432]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         299.73023724]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         301.40096756]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         296.26660074]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         461.94236683]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         496.95526502]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         285.33219449]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         284.19230443]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         288.86578489]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         282.66248832]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625   0.9765625   2.        279.4952836]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         285.54816438]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         274.30382811]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         283.64363418]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625   0.9765625   2.        290.3336313]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         284.32144462]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         289.18769634]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         275.75494436]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         280.69800046]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         263.23787714]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         294.74361919]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         268.67363065]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         277.94170976]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         269.37700166]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         295.35278211]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         289.44387052]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         279.98212883]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         329.86359675]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         296.58551063]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         294.69348529]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         290.05965894]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625   0.9765625   2.        284.6907318]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         288.85898965]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         309.62882309]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         274.50664603]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         283.38433949]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         279.53577638]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         306.86163458]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         326.34390453]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         338.05995834]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625   0.9765625   2.        427.9998908]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         287.24196349]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         293.39864672]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         290.33556872]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625   0.9765625   2.        310.0812209]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         308.72201335]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         276.95863628]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         275.88687298]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         277.42702496]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         273.62919045]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         284.27746315]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625   0.9765625   2.        277.7499794]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         282.73298655]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         286.38117948]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         279.61741489]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         299.43258887]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         501.68112332]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         343.35248647]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         415.43406362]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         279.30102409]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         292.71660697]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625   0.9765625   2.        274.8285479]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         305.16666214]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625   0.9765625   2.        289.9349878]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         290.69582518]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         297.54614315]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         277.14347924]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         272.27134953]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         294.90012922]
+Modifying image pixdim from [0.9765625 0.9765625 2.        0.       ] to [  0.9765625    0.9765625    2.         285.89335773]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         285.89335773]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         283.34064684]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         297.54013037]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         305.89118055]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625   0.9765625   2.        277.7647672]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         275.68550264]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625   0.9765625   2.        282.7020991]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         275.22801676]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         276.53964644]
+Modifying image pixdim from [0.9765625 0.9765625 2.        0.       ] to [  0.9765625   0.9765625   2.        294.4539973]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625   0.9765625   2.        294.4539973]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625   0.9765625   2.        290.4927123]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         326.94183752]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         296.24862256]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         281.92748313]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         307.07394945]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         283.44875991]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         274.41639829]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         274.40908153]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         284.56623426]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         290.50654891]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625   0.9765625   2.        296.9714519]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         282.41445103]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         288.08564041]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         293.70359388]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         286.00380427]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         297.54239502]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625   0.9765625   2.        352.8418559]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         278.00248053]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         295.08509148]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         276.24974597]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         319.89190722]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         456.96150887]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         279.61741489]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         306.34369147]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         290.51972603]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         300.03835087]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         289.40025585]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625   0.9765625   2.        285.7591115]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         284.41764152]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         280.76251552]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         282.98536892]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         294.25752081]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         299.87716932]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         288.81452249]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         279.88563562]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         267.49925577]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         308.20743971]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         280.44612249]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         291.63448381]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         274.38223987]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625   0.9765625   2.        290.2657058]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         271.98929401]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         295.38175822]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         287.63922452]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625   0.9765625   2.        300.5941062]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         279.46733003]
+Modifying image pixdim from [0.9765625 0.9765625 2.        0.       ] to [  0.9765625    0.9765625    2.         289.53104641]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         289.53104641]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625   0.9765625   2.        282.6424079]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625   0.9765625   2.        317.1214098]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         264.43433192]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         302.14171751]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         275.16056442]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         333.98021713]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         284.91317256]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         449.72642756]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         295.24508536]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625   0.9765625   2.        288.745225 ]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         267.25157178]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         290.54221314]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         304.34267712]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         301.78498962]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625   0.9765625   2.        283.6159242]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         272.72672671]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         283.34130858]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625   0.9765625   2.        293.0322086]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         267.93906046]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625   0.9765625   2.        288.0890709]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         264.41240922]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625   0.9765625   2.        471.7879931]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         280.71826868]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         412.92557625]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625   0.9765625   2.        300.83353  ]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         301.12291841]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         278.23370116]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         287.16182604]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         287.51550278]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         280.62714413]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         286.12805857]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         336.69266526]
+Modifying image pixdim from [0.9765625 0.9765625 2.        1.       ] to [  0.9765625    0.9765625    2.         305.74184928]
+Inference on case HNC02_000.nii.gz
+Inference on case HNC02_048.nii.gz
+Inference on case HNC02_024.nii.gz
+Inference on case HNC02_001.nii.gz
+Inference on case HNC02_030.nii.gz
+Inference on case HNC02_057.nii.gz
+Inference on case HNC02_012.nii.gz
+Inference on case HNC02_045.nii.gz
+Inference on case HNC02_054.nii.gz
+Inference on case HNC02_027.nii.gz
+Inference on case HNC02_060.nii.gz
+Inference on case HNC02_051.nii.gz
+Inference on case HNC02_009.nii.gz
+Inference on case HNC02_042.nii.gz
+Inference on case HNC02_018.nii.gz
+Inference on case HNC02_021.nii.gz
+Inference on case HNC02_039.nii.gz
+Inference on case HNC02_063.nii.gz
+Inference on case HNC02_066.nii.gz
+Inference on case HNC02_033.nii.gz
+Inference on case HNC02_006.nii.gz
+Inference on case HNC02_036.nii.gz
+Inference on case HNC02_069.nii.gz
+Inference on case HNC02_003.nii.gz
+Inference on case HNC02_015.nii.gz
+Inference on case HNC02_002.nii.gz
+Inference on case HNC02_049.nii.gz
+Inference on case HNC02_025.nii.gz
+Inference on case HNC02_055.nii.gz
+Inference on case HNC02_037.nii.gz
+Inference on case HNC02_040.nii.gz
+Inference on case HNC02_010.nii.gz
+Inference on case HNC02_046.nii.gz
+Inference on case HNC02_070.nii.gz
+Inference on case HNC02_052.nii.gz
+Inference on case HNC02_028.nii.gz
+Inference on case HNC02_058.nii.gz
+Inference on case HNC02_031.nii.gz
+Inference on case HNC02_013.nii.gz
+Inference on case HNC02_067.nii.gz
+Inference on case HNC02_019.nii.gz
+Inference on case HNC02_043.nii.gz
+Inference on case HNC02_061.nii.gz
+Inference on case HNC02_022.nii.gz
+Inference on case HNC02_034.nii.gz
+Inference on case HNC02_064.nii.gz
+Inference on case HNC02_007.nii.gz
+Inference on case HNC02_016.nii.gz
+Inference on case HNC02_072.nii.gz
+Inference on case HNC02_050.nii.gz
+Inference on case HNC02_056.nii.gz
+Inference on case HNC02_011.nii.gz
+Inference on case HNC02_004.nii.gz
+Inference on case HNC02_026.nii.gz
+Inference on case HNC02_038.nii.gz
+Inference on case HNC02_041.nii.gz
+Inference on case HNC02_044.nii.gz
+Inference on case HNC02_068.nii.gz
+Inference on case HNC02_014.nii.gz
+Inference on case HNC02_020.nii.gz
+Inference on case HNC02_029.nii.gz
+Inference on case HNC02_023.nii.gz
+Inference on case HNC02_053.nii.gz
+Inference on case HNC02_047.nii.gz
+Inference on case HNC02_059.nii.gz
+Inference on case HNC02_017.nii.gz
+Inference on case HNC02_062.nii.gz
+Inference on case HNC02_035.nii.gz
+Inference on case HNC02_065.nii.gz
+Inference on case HNC02_008.nii.gz
+Inference on case HNC02_071.nii.gz
+Inference on case HNC02_032.nii.gz
+Inference on case HNC02_078.nii.gz
+Inference on case HNC02_073.nii.gz
+Inference on case HNC02_084.nii.gz
+Inference on case HNC02_005.nii.gz
+Inference on case HNC02_081.nii.gz
+Inference on case HNC02_075.nii.gz
+Inference on case HNC02_096.nii.gz
+Inference on case HNC02_093.nii.gz
+Inference on case HNC02_099.nii.gz
+Inference on case HNC02_138.nii.gz
+Inference on case HNC02_120.nii.gz
+Inference on case HNC02_102.nii.gz
+Inference on case HNC02_105.nii.gz
+Inference on case HNC02_114.nii.gz
+Inference on case HNC02_108.nii.gz
+Inference on case HNC02_087.nii.gz
+Inference on case HNC02_090.nii.gz
+Inference on case HNC02_132.nii.gz
+Inference on case HNC02_135.nii.gz
+Inference on case HNC02_123.nii.gz
+Inference on case HNC02_117.nii.gz
+Inference on case HNC02_129.nii.gz
+Inference on case HNC02_111.nii.gz
+Inference on case HNC02_141.nii.gz
+Inference on case HNC02_126.nii.gz
+Inference on case HNC02_079.nii.gz
+Inference on case HNC02_082.nii.gz
+Inference on case HNC02_100.nii.gz
+Inference on case HNC02_091.nii.gz
+Inference on case HNC02_112.nii.gz
+Inference on case HNC02_088.nii.gz
+Inference on case HNC02_074.nii.gz
+Inference on case HNC02_106.nii.gz
+Inference on case HNC02_103.nii.gz
+Inference on case HNC02_094.nii.gz
+Inference on case HNC02_130.nii.gz
+Inference on case HNC02_139.nii.gz
+Inference on case HNC02_115.nii.gz
+Inference on case HNC02_136.nii.gz
+Inference on case HNC02_109.nii.gz
+Inference on case HNC02_121.nii.gz
+Inference on case HNC02_076.nii.gz
+Inference on case HNC02_118.nii.gz
+Inference on case HNC02_124.nii.gz
+Inference on case HNC02_133.nii.gz
+Inference on case HNC02_085.nii.gz
+Inference on case HNC02_080.nii.gz
+Inference on case HNC02_142.nii.gz
+Inference on case HNC02_097.nii.gz
+Inference on case HNC02_083.nii.gz
+Inference on case HNC02_089.nii.gz
+Inference on case HNC02_101.nii.gz
+Inference on case HNC02_113.nii.gz
+Inference on case HNC02_104.nii.gz
+Inference on case HNC02_116.nii.gz
+Inference on case HNC02_122.nii.gz
+Inference on case HNC02_110.nii.gz
+Inference on case HNC02_144.nii.gz
+Inference on case HNC02_107.nii.gz
+Inference on case HNC02_140.nii.gz
+Inference on case HNC02_137.nii.gz
+Inference on case HNC02_077.nii.gz
+Inference on case HNC02_127.nii.gz
+Inference on case HNC02_125.nii.gz
+Inference on case HNC02_095.nii.gz
+Inference on case HNC02_131.nii.gz
+Inference on case HNC02_119.nii.gz
+Inference on case HNC02_134.nii.gz
+Inference on case HNC02_147.nii.gz
+Inference on case HNC02_143.nii.gz
+Inference on case HNC02_092.nii.gz
+Inference on case HNC02_150.nii.gz
+Inference on case HNC02_098.nii.gz
+Inference on case HNC02_153.nii.gz
+Inference on case HNC02_086.nii.gz
+Inference on case HNC02_168.nii.gz
+Inference on case HNC02_159.nii.gz
+Inference on case HNC02_162.nii.gz
+Inference on case HNC02_174.nii.gz
+Inference on case HNC02_165.nii.gz
+Inference on case HNC02_171.nii.gz
+Inference on case HNC02_192.nii.gz
+Inference on case HNC02_156.nii.gz
+Inference on case HNC02_180.nii.gz
+Inference on case HNC02_195.nii.gz
+Inference on case HNC02_183.nii.gz
+Inference on case HNC02_145.nii.gz
+Inference on case HNC02_189.nii.gz
+Inference on case HNC02_177.nii.gz
+Inference on case HNC02_186.nii.gz
+Inference on case HNC02_128.nii.gz
+Inference on case HNC02_151.nii.gz
+Inference on case HNC02_154.nii.gz
+Inference on case HNC02_148.nii.gz
+Inference on case HNC02_169.nii.gz
+Inference on case HNC02_160.nii.gz
+Inference on case HNC02_175.nii.gz
+Inference on case HNC02_163.nii.gz
+Inference on case HNC02_181.nii.gz
+Inference on case HNC02_184.nii.gz
+Inference on case HNC02_190.nii.gz
+Inference on case HNC02_157.nii.gz
+Inference on case HNC02_166.nii.gz
+Inference on case HNC02_172.nii.gz
+Inference on case HNC02_178.nii.gz
+Inference on case HNC02_193.nii.gz
+Inference on case HNC02_155.nii.gz
+Inference on case HNC02_146.nii.gz
+Inference on case HNC02_152.nii.gz
+Inference on case HNC02_187.nii.gz
+Inference on case HNC02_149.nii.gz
+Inference on case HNC02_161.nii.gz
+Inference on case HNC02_170.nii.gz
+Inference on case HNC02_164.nii.gz
+Inference on case HNC02_182.nii.gz
+Inference on case HNC02_185.nii.gz
+Inference on case HNC02_176.nii.gz
+Inference on case HNC02_191.nii.gz
+Inference on case HNC02_158.nii.gz
+Inference on case HNC02_167.nii.gz
+Inference on case HNC02_179.nii.gz
+Inference on case HNC02_188.nii.gz
+Inference on case HNC02_173.nii.gz
+Inference on case HNC02_194.nii.gz
+
+real	85m14.652s
+user	63m0.612s
+sys	35m2.283s
